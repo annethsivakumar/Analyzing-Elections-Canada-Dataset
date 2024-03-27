@@ -1,11 +1,3 @@
-"""
-CISC-121 2023W
-Name: Anneth Sivakumar 
-Student Number: 20320973
-Email: 21as221@queensu.ca
-Date: 2023-03-07
-I confirm that this assignment solution is my own work and conforms to Queen’s standards of Academic Integrity.
-"""
 import functions3
 
 def main():
